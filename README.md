@@ -1,1 +1,1 @@
-# Python Infernetial Statistics Series
+# Python Inferential Statistics Series
